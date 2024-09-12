@@ -1,23 +1,63 @@
-# Replace with lesson title
+# Database Architecture Practice: Offer Right
 
-Add your content here!
+Let's get some more practice designing databases. This time, we'll design a data model for an app called Offer Right.
 
-[Read up here for full instructions with examples for lesson writing.](https://learn.firstdraft.com/lessons/3-how-to-write-a-lesson)
+## Offer Right
 
-## Heading 1
+Before you begin, remind yourself of [our goal](https://learn.firstdraft.com/lessons/320-yap-database-architecture#our-goal), and our [two database constraints](https://learn.firstdraft.com/lessons/320-yap-database-architecture#database-design-constraint-one).
 
-Use `##` second or greater level headings (HTML `<h2>` and greater).
+Then, click around [Offer Right](https://ujs-practice-1.matchthetarget.com/). It's a simplified version of the real [Offer Up](https://offerup.com/) — a two-sided market.
 
-### Heading 1.1
+Users can:
 
-Reference images from the `assets/` folder like so:
+- post items to sell
+- browse items to purchase
+- chat with sellers to make offers
+- sellers can mark items as sold once satisfied
+- buyers and sellers coordinate meeting up on their own
 
-```
-![](assets/example-image.png)
-```
+You can sign in with any of the following (all of their passwords are **password**):
 
-You can use the path `/assets/my-image.png` or `assets/my-image.png`, both will render in your local markdown preview; and when you connect the repository with a Learn Lesson, the assets will upload to Cloudinary and the paths will automatically be converted to a hosted URL, e.g.:
+- alice@example.com
+- bob@example.com
+- carol@example.com
+- eve@example.com
+- Or you can sign up for your own new account (it doesn't need to be a real email address).
 
-```
-![](https://res.cloudinary.com/[CLOUD_NAME]/image/upload/[IMAGE_VERSION]/appdev-lessons/[REPO_NAME]/[BRANCH]/[IMAGE_NAME])
-```
+Identify all of the screens in the app. On each screen:
+- What information can you see?
+- What actions can you take? Usually, this means: "what links and buttons can you click?"
+
+For each action:
+- What screen do you end up on after you take it?
+- What information was created/read/updated/deleted along the way?
+
+Keeping the notes you took above in mind: design a data model that can support all user actions that you observe in app. I.e., a complete listing of tables and columns.
+
+Imagine that it's a mockup, and that you've been hired to build an app like that. (Don't come up with additional features or improvements; our job is to build it as it is now.)
+
+I find it helpful to use paper or a spreadsheet to actually draw out all my tables, columns, and try entering in rows to make sure I can record everything necessary for all screens and possible user actions that I can see in the mockup.
+
+Please create a spreadsheet using [Google Sheets](https://sheets.google.com) and share your url. It should be something like this: `docs.google.com/spreadsheets/<...>`. Make sure anyone with the link can view.
+
+![](assets/anyone-with-link.png)
+
+- Enter your `docs.google.com/spreadsheets` shared URL:
+- `docs.google.com/spreadsheets`
+  - Great job!
+- any
+  - Not quite. Make sure the URL looks like: `docs.google.com/spreadsheets`
+{: .free_text #github_profile_url title="GitHub profile URL" points="1" answer="1" }
+
+<div class="alert alert-danger mt-2">
+
+After you submit the URL here, return to Canvas and submit the URL again in the assignment "Offer Right: Spreadsheet".
+
+An instructor will provide additional feedback on your submission there.
+
+</div>
+
+---
+
+- Approximately how long (in minutes) did this lesson take you to complete?
+{: .free_text_number #time_taken title="Time taken" points="1" answer="any" }
