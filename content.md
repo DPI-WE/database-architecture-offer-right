@@ -47,7 +47,7 @@ Please create a spreadsheet using [Google Sheets](https://sheets.google.com) and
   - Great job!
 - any
   - Not quite. Make sure the URL looks like: `docs.google.com/spreadsheets`
-{: .free_text #github_profile_url title="GitHub profile URL" points="1" answer="1" }
+{: .free_text #github_profile_url title="Offer Right spreadhseet URL" points="1" answer="1" }
 
 <div class="alert alert-danger mt-2">
 
