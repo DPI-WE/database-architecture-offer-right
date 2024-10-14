@@ -59,7 +59,7 @@ An instructor will provide additional feedback on your submission there.
 
 </div>
 
-## Offer Right: Entity Relationship Diagram (ERD)
+### Offer Right: Entity Relationship Diagram (ERD)
 
 Please create a entity relationship diagram (ERD) using [Ideas Tool](https://ideas.firstdraft.com).
 
