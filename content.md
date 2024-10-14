@@ -6,7 +6,7 @@ Let's get some more practice designing databases. This time, we'll design a data
 
 Before you begin, remind yourself of [our goal](https://learn.firstdraft.com/lessons/320-yap-database-architecture#our-goal), and our [two database constraints](https://learn.firstdraft.com/lessons/320-yap-database-architecture#database-design-constraint-one).
 
-Then, click around [Offer Right](https://ujs-practice-1.matchthetarget.com/). It's a simplified version of the real [Offer Up](https://offerup.com/) — a two-sided market.
+Then, click around [Offer Right](https://offer-right.matchthetarget.com/). It's a simplified version of the real [Offer Up](https://offerup.com/) — a two-sided market.
 
 Users can:
 
