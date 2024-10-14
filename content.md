@@ -49,7 +49,7 @@ Please create a spreadsheet using [Google Sheets](https://sheets.google.com) and
   - Great job!
 - No
   - Please create your spreadsheet before continuing.
-{: .free_text #offer_right_spreadsheet title="Offer Right: Spreadhseet" points="1" answer="1" }
+{: .choose_best #offer_right_spreadsheet title="Offer Right: Spreadhseet" points="1" answer="1" }
 
 <div class="alert alert-danger mt-2">
 
@@ -68,7 +68,7 @@ Please create a entity relationship diagram (ERD) using [Ideas Tool](https://ide
   - Great job!
 - No
   - Please create your entity relationship diagram (ERD) before continuing.
-{: .free_text #offer_right_erd title="Offer Right: Entity Relationship Diagram (ERD)" points="1" answer="1" }
+{: .choose_best #offer_right_erd title="Offer Right: Entity Relationship Diagram (ERD)" points="1" answer="1" }
 
 <div class="alert alert-danger mt-2">
 
