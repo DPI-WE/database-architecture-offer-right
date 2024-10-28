@@ -6,7 +6,7 @@ Let's get some more practice designing databases. This time, we'll design a data
 
 Before you begin, remind yourself of [our goal](https://learn.firstdraft.com/lessons/320-yap-database-architecture#our-goal), and our [two database constraints](https://learn.firstdraft.com/lessons/320-yap-database-architecture#database-design-constraint-one).
 
-Then, click around [Offer Right](https://ujs-practice-1.matchthetarget.com/). It's a simplified version of the real [Offer Up](https://offerup.com/) — a two-sided market.
+Then, click around [Offer Right](https://offer-right.matchthetarget.com/). It's a simplified version of the real [Offer Up](https://offerup.com/) — a two-sided market.
 
 Users can:
 
@@ -38,20 +38,41 @@ Imagine that it's a mockup, and that you've been hired to build an app like that
 
 I find it helpful to use paper or a spreadsheet to actually draw out all my tables, columns, and try entering in rows to make sure I can record everything necessary for all screens and possible user actions that I can see in the mockup.
 
+### Offer Right: Spreadsheet
+
 Please create a spreadsheet using [Google Sheets](https://sheets.google.com) and share your url. It should be something like this: `docs.google.com/spreadsheets/<...>`. Make sure anyone with the link can view.
 
 ![](assets/anyone-with-link.png)
 
-- Did you create a spreadsheet with your data model and sample rows?
+- Did you create a spreadsheet with the tables, columns, and rows of sample data?
 - Yes
   - Great job!
 - No
-  - Please create a spreadsheet before continuing.
-{: .choose_best #github_profile_url title="GitHub profile URL" points="1" answer="1" }
+  - Please create your spreadsheet before continuing.
+{: .choose_best #offer_right_spreadsheet title="Offer Right: Spreadhseet" points="1" answer="1" }
 
 <div class="alert alert-danger mt-2">
 
-After you submit the URL here, return to Canvas and submit the URL again in the assignment "Offer Right: Spreadsheet".
+Return to Canvas and submit the URL in the assignment "Offer Right: Spreadsheet".
+
+An instructor will provide additional feedback on your submission there.
+
+</div>
+
+### Offer Right: Entity Relationship Diagram (ERD)
+
+Please create a entity relationship diagram (ERD) using [Ideas Tool](https://ideas.firstdraft.com).
+
+- Did you create a entity relationship diagram (ERD)?
+- Yes
+  - Great job!
+- No
+  - Please create your entity relationship diagram (ERD) before continuing.
+{: .choose_best #offer_right_erd title="Offer Right: Entity Relationship Diagram (ERD)" points="1" answer="1" }
+
+<div class="alert alert-danger mt-2">
+
+Return to Canvas and submit a screenshot of your ERD in the assignment "Offer Right: Entity Relationship Diagram (ERD)".
 
 An instructor will provide additional feedback on your submission there.
 
